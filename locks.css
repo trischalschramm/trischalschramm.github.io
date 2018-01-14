@@ -1,0 +1,27 @@
+
+h1
+{
+ font-size: 36;
+ font-family: Monaco;
+ color; green;
+}
+h2
+{
+background-color: white;
+color:black;
+font-size: 26;
+}
+
+p
+{
+ color: brown;
+ font-size:18;
+}
+
+body
+{
+ background-color: #123a56;
+ text-align: center;
+ color: beige;
+}
+h2 a {color:orange}
